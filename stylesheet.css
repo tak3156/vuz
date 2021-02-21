@@ -268,4 +268,7 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  form {
+    height:500px;
+    float:center;
 }
