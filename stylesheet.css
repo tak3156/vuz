@@ -270,5 +270,6 @@ footer {
   }
   form {
     height:500px;
-    float:center;
+    background-color: #3b5998;
+    float:left;
 }
